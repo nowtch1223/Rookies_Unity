@@ -1,2 +1,3 @@
-# Rookies_Untiy
+# Rookies_Unity
  格闘ゲーム
+
